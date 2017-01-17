@@ -1,2 +1,2 @@
 # algorithm-practice
-Algorithm 
+Algorithms for problems found in various places
